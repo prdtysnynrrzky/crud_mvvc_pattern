@@ -1,4 +1,4 @@
-# frontend_mvvc
+# crud mvvc pattern
 
 A new Flutter project.
 
